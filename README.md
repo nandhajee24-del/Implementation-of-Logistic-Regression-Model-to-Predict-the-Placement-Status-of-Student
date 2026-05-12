@@ -9,8 +9,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Collect and preprocess student data (marks, skills, etc.).
+
 2.Split the dataset into training and testing sets.
+
 3.Train the Logistic Regression model using training data.
+
 4.Predict placement status on test data and evaluate accuracy. 
 
 ## Program:
@@ -52,7 +55,7 @@ plt.show()
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+<img width="778" height="533" alt="image" src="https://github.com/user-attachments/assets/994f9a00-26a0-42ee-8d37-2f516f005ee6" />
 
 
 ## Result:
